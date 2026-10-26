@@ -1,268 +1,179 @@
 #EXTM3U
 #EXTINF:0 media="true" group-title="Odisseia",Odisseia - S01E01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Odisseia",Odisseia - S01E02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Odisseia",Odisseia - S01E03
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Odisseia",Odisseia - S01E04
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Odisseia",Odisseia - S01E05
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Odisseia",Odisseia - S01E06
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Odisseia",Odisseia - S01E07
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Odisseia",Odisseia - S01E08
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241201153127e001t5960d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241201153127e001t5960d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241202153127e002t6018d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241202153127e002t6018d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E03
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241203153127e003t6033d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241203153127e003t6033d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E04
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241204153127e004t6053d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241204153127e004t6053d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E05
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241205153127e005t6068d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241205153127e005t6068d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E06
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241206153127e006t6081d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241206153127e006t6081d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E07
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241207153127e007t6097d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241207153127e007t6097d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E08
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241208153127e008t6111d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241208153127e008t6111d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E09
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241209153127e009t6132d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241209153127e009t6132d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E10
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241210153127e010t6149d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241210153127e010t6149d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E11
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241211153127e011t6165d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241211153127e011t6165d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="1986",1986 - S01E12
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241212153127e012t6178d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p4460/p4460_1_20241212153127e012t6178d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E03
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E04
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E05
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E06
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E07
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E08
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E09
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E10
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E11
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S01E12
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5057/p5057_1_202101035142.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240501143408e001t7005d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240501143408e001t7005d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240502143408e002t7362d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240502143408e002t7362d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E03
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240503143408e003t7381d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240503143408e003t7381d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E04
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240504143408e004t7398d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240504143408e004t7398d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E05
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240505143408e005t7414d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240505143408e005t7414d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E06
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240506143408e006t7430d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240506143408e006t7430d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E07
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240507143408e007t7459d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240507143408e007t7459d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E08
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240508143408e008t7478d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240508143408e008t7478d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E09
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240509143408e009t7494d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240509143408e009t7494d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="3 Mulheres",3 Mulheres - S02E10
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240510143408e010t7510d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p10209/p10209_1_20240510143408e010t7510d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E03
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E04
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E05
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E06
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E07
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E08
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E09
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E10
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E11
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S01E12
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p117/p117_1_2026091022236.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E03
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E04
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E05
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E06
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E07
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E08
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E09
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E10
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E11
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S02E12
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1005/p1005_1_2026091122259.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E03
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E04
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E05
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E06
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E07
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E08
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E09
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E10
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E11
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Os Contemporaneos",Os Contemporaneos - S03E12
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1004/p1004_1_2026091122275.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S01E01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250507001006e001t2809d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250507001006e001t2809d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S01E02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250514161006e002t1665d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250514161006e002t1665d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S01E03
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_3_20250521200642e003t0950d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_3_20250521200642e003t0950d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S01E04
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250528161005e004t7274d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250528161005e004t7274d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S01E05
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250604001004e005t5778d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250604001004e005t5778d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S01E06
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250611161004e006t2809d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250611161004e006t2809d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S01E07
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250618161004e007t7921d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250618161004e007t7921d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S01E08
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250625161005e008t1418d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250625161005e008t1418d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S02E01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261006161005e001t1085d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261006161005e001t1085d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S02E02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261013161005e002t5620d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261013161005e002t5620d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S02E03
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261020161006e003t5234d.mp4,.urlset/index-v1-a1.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261020161006e003t5234d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
