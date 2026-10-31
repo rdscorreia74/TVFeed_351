@@ -177,3 +177,5 @@ https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_2026100
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261013161005e002t5620d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:0 media="true" group-title="Ruido",Ruido - S02E03
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261020161006e003t5234d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTINF:0 media="true" group-title="Ruido",Ruido - S02E04
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261027161005e004t9890d.mp4,.urlset/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
